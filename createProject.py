@@ -3,9 +3,9 @@ import os
 from github import Github  # pip install PyGithub
 
 # Your Github access token
-ACCESS_TOKEN = "c96590efd0898e62fe0bbda17f7ee0195d5ef9b9"
+ACCESS_TOKEN = "[TOKEN]"
 # Path to the folder where you want to create your projects
-PROJECTS_FOLDER = 'S:\Projects'
+PROJECTS_FOLDER = '[PATH]'
 
 OS = sys.platform
 
